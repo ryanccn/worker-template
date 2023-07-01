@@ -1,0 +1,5 @@
+name = "worker-template"
+main = "src/worker.ts"
+compatibility_date = "2023-05-18"
+
+workers_dev = false
