@@ -1,6 +1,6 @@
 import { Hono } from "hono";
 
-/* eslint-disable @typescript-eslint/no-empty-interface */
+/* eslint-disable-next-line @typescript-eslint/no-empty-interface */
 export interface Env {}
 
 const app = new Hono();
