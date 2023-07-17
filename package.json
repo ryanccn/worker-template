@@ -15,7 +15,7 @@
 		"@microsoft/eslint-formatter-sarif": "^3.0.0",
 		"@typescript-eslint/eslint-plugin": "^5.60.1",
 		"@typescript-eslint/parser": "^5.60.1",
-		"eslint": "^8.44.0",
+		"eslint": "^8.45.0",
 		"typescript": "^5.1.6",
 		"wrangler": "^3.1.1"
 	},
