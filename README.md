@@ -7,7 +7,9 @@ It uses [**Hono**](https://hono.dev/) as the underlying framework that handles r
 ## Getting started
 
 1. [Use this template](https://github.com/ryanccn/worker-template/generate) on GitHub.
+
    ![Use this template](/.github/images/use-this-template.png)
+
 2. [Create an API token](https://dash.cloudflare.com/profile/api-tokens) on Cloudflare with the default Edit Workers template and set it as a repository secret named `CLOUDFLARE_API_TOKEN`.
 3. Rerun the failed deploy run.
 
