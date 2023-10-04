@@ -1,6 +1,7 @@
 {
 	"name": "worker-template",
 	"version": "0.0.1",
+	"type": "module",
 	"private": true,
 	"scripts": {
 		"deploy": "wrangler deploy",
@@ -16,6 +17,7 @@
 		"@typescript-eslint/eslint-plugin": "^6.7.4",
 		"@typescript-eslint/parser": "^6.7.4",
 		"eslint": "^8.50.0",
+		"tsx": "^3.13.0",
 		"typescript": "^5.2.2",
 		"wrangler": "^3.10.1"
 	},
