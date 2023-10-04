@@ -8,16 +8,16 @@
 		"lint": "eslint ."
 	},
 	"dependencies": {
-		"hono": "^3.6.0"
+		"hono": "^3.7.3"
 	},
 	"devDependencies": {
-		"@cloudflare/workers-types": "^4.20230904.0",
+		"@cloudflare/workers-types": "^4.20231002.0",
 		"@microsoft/eslint-formatter-sarif": "^3.0.0",
-		"@typescript-eslint/eslint-plugin": "^6.6.0",
-		"@typescript-eslint/parser": "^6.6.0",
-		"eslint": "^8.49.0",
+		"@typescript-eslint/eslint-plugin": "^6.7.4",
+		"@typescript-eslint/parser": "^6.7.4",
+		"eslint": "^8.50.0",
 		"typescript": "^5.2.2",
-		"wrangler": "^3.7.0"
+		"wrangler": "^3.10.1"
 	},
-	"packageManager": "pnpm@8.6.5"
+	"packageManager": "pnpm@8.8.0"
 }

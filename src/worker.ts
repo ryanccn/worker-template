@@ -1,9 +1,12 @@
 import { Hono } from "hono";
 
-/* eslint-disable-next-line @typescript-eslint/no-empty-interface */
-export interface Env {}
+export type Bindings = Record<string, never>;
+export type Variables = Record<string, never>;
 
-const app = new Hono();
+const app = new Hono<{
+	Bindings: Bindings;
+	Variables: Variables;
+}>();
 
 app.get("/", (c) => c.text("hello world!"));
 
