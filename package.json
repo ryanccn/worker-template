@@ -15,7 +15,7 @@
 		"@cloudflare/workers-types": "^4.20231010.0",
 		"@microsoft/eslint-formatter-sarif": "^3.0.0",
 		"@typescript-eslint/eslint-plugin": "^6.7.4",
-		"@typescript-eslint/parser": "^6.7.4",
+		"@typescript-eslint/parser": "^6.9.0",
 		"eslint": "^8.51.0",
 		"tsx": "^3.14.0",
 		"typescript": "^5.2.2",
