@@ -14,7 +14,7 @@
 	"devDependencies": {
 		"@cloudflare/workers-types": "^4.20231025.0",
 		"@microsoft/eslint-formatter-sarif": "^3.0.0",
-		"@typescript-eslint/eslint-plugin": "^6.10.0",
+		"@typescript-eslint/eslint-plugin": "^6.12.0",
 		"@typescript-eslint/parser": "^6.10.0",
 		"eslint": "^8.53.0",
 		"tsx": "^3.14.0",
