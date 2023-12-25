@@ -19,7 +19,7 @@
 		"eslint": "^8.53.0",
 		"tsx": "^3.14.0",
 		"typescript": "^5.2.2",
-		"wrangler": "^3.13.1"
+		"wrangler": "^3.22.1"
 	},
 	"packageManager": "pnpm@8.8.0"
 }
