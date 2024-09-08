@@ -6,13 +6,14 @@
 	"scripts": {
 		"deploy": "wrangler deploy",
 		"dev": "wrangler dev",
+		"check": "tsc -noEmit",
 		"lint": "eslint ."
 	},
 	"dependencies": {
 		"hono": "^4.5.5"
 	},
 	"devDependencies": {
-		"@cloudflare/workers-types": "^4.20240806.0",
+		"@cloudflare/workers-types": "^4.20240903.0",
 		"@microsoft/eslint-formatter-sarif": "^3.1.0",
 		"@ryanccn/eslint-config": "^0.4.0",
 		"eslint": "^9.9.0",
@@ -23,5 +24,5 @@
 		"typescript-eslint": "^8.1.0",
 		"wrangler": "^3.71.0"
 	},
-	"packageManager": "pnpm@9.7.0+sha512.dc09430156b427f5ecfc79888899e1c39d2d690f004be70e05230b72cb173d96839587545d09429b55ac3c429c801b4dc3c0e002f653830a420fa2dd4e3cf9cf"
+	"packageManager": "pnpm@9.9.0+sha512.60c18acd138bff695d339be6ad13f7e936eea6745660d4cc4a776d5247c540d0edee1a563695c183a66eb917ef88f2b4feb1fc25f32a7adcadc7aaf3438e99c1"
 }
