@@ -13,7 +13,7 @@
 		"hono": "^4.6.19"
 	},
 	"devDependencies": {
-		"@cloudflare/workers-types": "^4.20250109.0",
+		"@cloudflare/workers-types": "^4.20250124.3",
 		"@microsoft/eslint-formatter-sarif": "^3.1.0",
 		"@ryanccn/eslint-config": "^0.4.2",
 		"eslint": "^9.18.0",
