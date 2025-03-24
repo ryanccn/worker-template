@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       hono:
-        specifier: ^4.7.4
-        version: 4.7.4
+        specifier: ^4.7.5
+        version: 4.7.5
     devDependencies:
       '@cloudflare/workers-types':
         specifier: ^4.20250321.0
@@ -1130,8 +1130,8 @@ packages:
     resolution: {integrity: sha512-0hJU9SCPvmMzIBdZFqNPXWa6dqh7WdH0cII9y+CyS8rG3nL48Bclra9HmKhVVUHyPWNH5Y7xDwAB7bfgSjkUMQ==}
     engines: {node: '>= 0.4'}
 
-  hono@4.7.4:
-    resolution: {integrity: sha512-Pst8FuGqz3L7tFF+u9Pu70eI0xa5S3LPUmrNd5Jm8nTHze9FxLTK9Kaj5g/k4UcwuJSXTP65SyHOPLrffpcAJg==}
+  hono@4.7.5:
+    resolution: {integrity: sha512-fDOK5W2C1vZACsgLONigdZTRZxuBqFtcKh7bUQ5cVSbwI2RWjloJDcgFOVzbQrlI6pCmhlTsVYZ7zpLj4m4qMQ==}
     engines: {node: '>=16.9.0'}
 
   hosted-git-info@2.8.9:
@@ -2681,7 +2681,7 @@ snapshots:
     dependencies:
       function-bind: 1.1.2
 
-  hono@4.7.4: {}
+  hono@4.7.5: {}
 
   hosted-git-info@2.8.9: {}
 
