@@ -17,7 +17,7 @@
 		"@microsoft/eslint-formatter-sarif": "^3.1.0",
 		"@ryanccn/eslint-config": "^0.4.3",
 		"eslint": "^9.25.0",
-		"eslint-config-prettier": "^9.1.0",
+		"eslint-config-prettier": "^10.1.2",
 		"eslint-plugin-unicorn": "^59.0.0",
 		"tsx": "^4.19.3",
 		"typescript": "^5.8.3",
