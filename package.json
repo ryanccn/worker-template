@@ -16,7 +16,7 @@
 		"@cloudflare/workers-types": "^4.20250505.0",
 		"@microsoft/eslint-formatter-sarif": "^3.1.0",
 		"@ryanccn/eslint-config": "^0.4.3",
-		"eslint": "^9.25.0",
+		"eslint": "^9.26.0",
 		"eslint-config-prettier": "^10.1.2",
 		"eslint-plugin-unicorn": "^59.0.0",
 		"tsx": "^4.19.3",
