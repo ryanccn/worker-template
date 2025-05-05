@@ -19,7 +19,7 @@
 		"eslint": "^9.26.0",
 		"eslint-config-prettier": "^10.1.2",
 		"eslint-plugin-unicorn": "^59.0.0",
-		"tsx": "^4.19.3",
+		"tsx": "^4.19.4",
 		"typescript": "^5.8.3",
 		"typescript-eslint": "^8.31.0",
 		"wrangler": "^4.12.1"
