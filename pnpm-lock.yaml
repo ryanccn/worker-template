@@ -20,13 +20,13 @@ importers:
         version: 3.1.0
       '@ryanccn/eslint-config':
         specifier: ^0.5.0
-        version: 0.5.0(@eslint/eslintrc@3.3.1)(@eslint/js@9.26.0)(eslint-config-prettier@10.1.2(eslint@9.26.0))(eslint-plugin-unicorn@59.0.0(eslint@9.26.0))(eslint@9.26.0)(typescript-eslint@8.32.0(eslint@9.26.0)(typescript@5.8.3))(typescript@5.8.3)
+        version: 0.5.0(@eslint/eslintrc@3.3.1)(@eslint/js@9.26.0)(eslint-config-prettier@10.1.5(eslint@9.26.0))(eslint-plugin-unicorn@59.0.0(eslint@9.26.0))(eslint@9.26.0)(typescript-eslint@8.32.0(eslint@9.26.0)(typescript@5.8.3))(typescript@5.8.3)
       eslint:
         specifier: ^9.26.0
         version: 9.26.0
       eslint-config-prettier:
-        specifier: ^10.1.2
-        version: 10.1.2(eslint@9.26.0)
+        specifier: ^10.1.5
+        version: 10.1.5(eslint@9.26.0)
       eslint-plugin-unicorn:
         specifier: ^59.0.0
         version: 59.0.0(eslint@9.26.0)
@@ -957,8 +957,8 @@ packages:
     resolution: {integrity: sha512-TtpcNJ3XAzx3Gq8sWRzJaVajRs0uVxA2YAkdb1jm2YkPz4G6egUFAyA3n5vtEIZefPk5Wa4UXbKuS5fKkJWdgA==}
     engines: {node: '>=10'}
 
-  eslint-config-prettier@10.1.2:
-    resolution: {integrity: sha512-Epgp/EofAUeEpIdZkW60MHKvPyru1ruQJxPL+WIycnaPApuseK0Zpkrh/FwL9oIpQvIhJwV7ptOy0DWUjTlCiA==}
+  eslint-config-prettier@10.1.5:
+    resolution: {integrity: sha512-zc1UmCpNltmVY34vuLRV61r1K27sWuX39E+uyUnY8xS2Bex88VV9cugG+UZbRSRGtGyFboj+D8JODyme1plMpw==}
     hasBin: true
     peerDependencies:
       eslint: '>=7.0.0'
@@ -2154,7 +2154,7 @@ snapshots:
       '@nodelib/fs.scandir': 2.1.5
       fastq: 1.17.1
 
-  '@ryanccn/eslint-config@0.5.0(@eslint/eslintrc@3.3.1)(@eslint/js@9.26.0)(eslint-config-prettier@10.1.2(eslint@9.26.0))(eslint-plugin-unicorn@59.0.0(eslint@9.26.0))(eslint@9.26.0)(typescript-eslint@8.32.0(eslint@9.26.0)(typescript@5.8.3))(typescript@5.8.3)':
+  '@ryanccn/eslint-config@0.5.0(@eslint/eslintrc@3.3.1)(@eslint/js@9.26.0)(eslint-config-prettier@10.1.5(eslint@9.26.0))(eslint-plugin-unicorn@59.0.0(eslint@9.26.0))(eslint@9.26.0)(typescript-eslint@8.32.0(eslint@9.26.0)(typescript@5.8.3))(typescript@5.8.3)':
     dependencies:
       '@eslint/compat': 1.2.9(eslint@9.26.0)
       '@typescript-eslint/utils': 8.32.0(eslint@9.26.0)(typescript@5.8.3)
@@ -2165,7 +2165,7 @@ snapshots:
     optionalDependencies:
       '@eslint/eslintrc': 3.3.1
       '@eslint/js': 9.26.0
-      eslint-config-prettier: 10.1.2(eslint@9.26.0)
+      eslint-config-prettier: 10.1.5(eslint@9.26.0)
       eslint-plugin-unicorn: 59.0.0(eslint@9.26.0)
       typescript-eslint: 8.32.0(eslint@9.26.0)(typescript@5.8.3)
     transitivePeerDependencies:
@@ -2508,7 +2508,7 @@ snapshots:
 
   escape-string-regexp@4.0.0: {}
 
-  eslint-config-prettier@10.1.2(eslint@9.26.0):
+  eslint-config-prettier@10.1.5(eslint@9.26.0):
     dependencies:
       eslint: 9.26.0
 
