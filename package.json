@@ -10,7 +10,7 @@
 		"lint": "eslint ."
 	},
 	"dependencies": {
-		"hono": "^4.10.2"
+		"hono": "^4.10.3"
 	},
 	"devDependencies": {
 		"@cloudflare/workers-types": "^4.20251011.0",
